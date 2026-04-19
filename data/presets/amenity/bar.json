@@ -13,6 +13,7 @@
         "{@templates/poi}",
         "air_conditioning",
         "food",
+        "indoor_seating",
         "microbrewery",
         "operator",
         "outdoor_seating",
